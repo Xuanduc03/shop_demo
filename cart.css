@@ -1,0 +1,49 @@
+.table {
+    margin: 0px auto;
+    float: none;
+}
+.row {
+    float: none;;
+    margin: 0px auto;
+}
+.product {
+    border: 1px solid #385898;
+    background-color: #f1f1f1;
+    padding: 16px;
+    border-radius: 6px;
+    margin: -1px 19px 3px -1px;
+    text-align: center;
+}
+.button {
+    background-color: #6394f8;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 16px;
+    display: block;
+    border-radius: 7px;
+    font-size: 16px;
+    margin: 25px 0 15px 0;
+}
+.button:visited{
+    text-decoration: none;
+    color: white;
+}
+.button:hover{
+    background-color: #7fa9ff;
+    color: white;
+    text-decoration: none;
+}
+.button:active{
+    text-decoration: none;
+    color: white;
+}
+.btn-danger {
+    font-size: 12px;
+    padding: 3px;
+}
+h2{
+    text-align: center;
+    color: #66afe9;
+    padding: 2%;
+}
